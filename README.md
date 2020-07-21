@@ -14,6 +14,7 @@ Senior High Score statistics GUI
 101       1    Marco 90.7  2.5
 
 ...
+
 (1)chose files and mode
 
 ![image](https://github.com/marcovwu/Score-statistics/blob/master/file_image/chose.JPG)
