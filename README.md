@@ -1,4 +1,4 @@
-# Score-statistics
+# Score-Analysis
 
 Senior High Score statistics GUI
 
