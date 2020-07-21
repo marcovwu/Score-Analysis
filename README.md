@@ -12,11 +12,16 @@ Senior High Score statistics GUI
 
 101       812001    1     Marco     90        80    70        60          50      40    30  20    999      99.9       1       0.01
 
+![image](https://github.com/marcovwu/Score-statistics/blob/master/file_image/score.JPG)
+
+
 [2.]Progress excel
 
 班級簡稱	座號	姓名	平均	平均殘
 
 101       1    Marco 90.7  2.5
+
+![image](https://github.com/marcovwu/Score-statistics/blob/master/file_image/progress.JPG)
 
 ...
 
